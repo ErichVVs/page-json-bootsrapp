@@ -14,15 +14,20 @@
 
 .header-videos {
     @extend .header-inicio;
-    background-image: url(../img/11-min-min.jpg);
+    background-image: url(../img/3333-min.jpg);
 }
 
 .header-music {
     @extend .header-inicio;
-    background-image: url(../img/33-min.jpg);
+    background-image: url(../img/11-min-min.jpg);
 }
 
 .header-about {
     @extend .header-inicio;
-    background-image: url(../img/222-min.jpg);
+    background-image: url(../img/6-min.jpg);
+}
+
+.header-tour {
+    @extend .header-inicio;
+    background-image: url(../img/5-min.jpg);
 }
