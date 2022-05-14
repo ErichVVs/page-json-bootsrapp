@@ -17,6 +17,11 @@
     background-image: url(../img/3333-min.jpg);
 }
 
+.header-gallery {
+    @extend .header-inicio;
+    background-image: url(../img/16-min.jpg);
+}
+
 .header-music {
     @extend .header-inicio;
     background-image: url(../img/11-min-min.jpg);
@@ -24,7 +29,7 @@
 
 .header-about {
     @extend .header-inicio;
-    background-image: url(../img/10-min.jpg);
+    background-image: url(../img/14-min.jpg);
 }
 
 .header-tour {

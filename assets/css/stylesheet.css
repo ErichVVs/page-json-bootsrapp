@@ -3,7 +3,7 @@
   margin: 0;
 }
 
-.header-inicio, .header-videos, .header-music, .header-about, .header-tour {
+.header-inicio, .header-videos, .header-gallery, .header-music, .header-about, .header-tour {
   width: 100%;
   height: 100vh;
   background-image: url(../img/44-min-min.jpg);
@@ -16,12 +16,16 @@
   background-image: url(../img/3333-min.jpg);
 }
 
+.header-gallery {
+  background-image: url(../img/16-min.jpg);
+}
+
 .header-music {
   background-image: url(../img/11-min-min.jpg);
 }
 
 .header-about {
-  background-image: url(../img/10-min.jpg);
+  background-image: url(../img/14-min.jpg);
 }
 
 .header-tour {
