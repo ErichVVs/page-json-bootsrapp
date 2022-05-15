@@ -3,6 +3,11 @@
   margin: 0;
 }
 
+a {
+  text-decoration: none;
+  color: #000;
+}
+
 .header-inicio, .header-videos, .header-gallery, .header-music, .header-about, .header-tour {
   width: 100%;
   height: 100vh;
