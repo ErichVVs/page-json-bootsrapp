@@ -10,6 +10,10 @@
     font-size: 20px;
 }
 
+.titulosencillos2 {
+    @extend .titulosencillos1;
+}
+
 .bg-tarjetas{
     height: 19vh;
     margin: 0px;
