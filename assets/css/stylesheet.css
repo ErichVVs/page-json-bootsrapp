@@ -1,3 +1,5 @@
+@charset "UTF-8";
+@import url("https://fonts.googleapis.com/css2?family=Nuosu+SIL&display=swap");
 * {
   padding: 0;
   margin: 0;
@@ -36,6 +38,16 @@ a {
 
 .header-tour {
   background-image: url(../img/7-min.jpg);
+}
+
+/* Pie de página */
+h2 {
+  font-family: 'Nuosu SIL', serif;
+  font-weight: 400;
+}
+
+footer {
+  color: #000;
 }
 
 .titulopaginamusic {
